@@ -64,6 +64,15 @@ body {
 @media (max-width: 768px) {
     .carousel-item img {
         height: 280px;
+        align-items: center;
+        }
+    
+        .social-links, h3, p {
+            text-align: center;
+        }
     }
     
+    footer{
+    background-color: #f8d407;
+    color: #367af7;
 }
